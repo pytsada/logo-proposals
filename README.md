@@ -1,2 +1,1 @@
-# logo-proposals
-Logo Proposal Documents and Assets
+# Pytsada Logo Proposals
