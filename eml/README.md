@@ -18,4 +18,11 @@ This is just an abstract looking top view of a river raft colored with the Pytho
 
 Same explanation as variation 1 but I removed some parts on the yellow side to make it look more like a "t" instead of a "d".
 
+## Variation 3
+
+![pytsada-logo-variation-3.png](exported/pytsada-logo-variation-3.png)
+
+Making the PyTsada logo look more like a top view of a raft rather than a paperclip :P
+
+Font used for PyTsada text is Source Code Pro which I downloaded from Google Fonts.
 
